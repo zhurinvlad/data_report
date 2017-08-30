@@ -9,6 +9,7 @@
 * [https://travis-ci.org/](https://travis-ci.org/)
 * [Frozen String Literal: true What is it?](https://freelancing-gods.com/2017/07/27/friendly-frozen-string-literals.html)
 * [https://github.com/kaminari/kaminari/blob/master/kaminari-core/lib/kaminari/config.rb](https://github.com/kaminari/kaminari/blob/master/kaminari-core/lib/kaminari/config.rb)
+* [https://hackernoon.com/your-guide-to-testing-in-ruby-on-rails-5-c8bd122e38ad](https://hackernoon.com/your-guide-to-testing-in-ruby-on-rails-5-c8bd122e38ad)
 
 The personal gem data-reports
 * Поддержка форматов json, html, pdf, excel, csv, zip(внутри сжатый файл)
