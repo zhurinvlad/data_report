@@ -10,6 +10,7 @@
 * [Frozen String Literal: true What is it?](https://freelancing-gods.com/2017/07/27/friendly-frozen-string-literals.html)
 * [https://github.com/kaminari/kaminari/blob/master/kaminari-core/lib/kaminari/config.rb](https://github.com/kaminari/kaminari/blob/master/kaminari-core/lib/kaminari/config.rb)
 * [https://hackernoon.com/your-guide-to-testing-in-ruby-on-rails-5-c8bd122e38ad](https://hackernoon.com/your-guide-to-testing-in-ruby-on-rails-5-c8bd122e38ad)
+http://guides.rubyonrails.org/plugins.html
 
 The personal gem data-reports
 * Поддержка форматов json, html, pdf, excel, csv, zip(внутри сжатый файл)
@@ -24,6 +25,7 @@ The personal gem data-reports
 * Миграция(пользователь, type, формат, email(slack, etc), status, params, filename, created,  updated, deleted )
 * Разбивка при еже-генерации
 * Доп методы
+* путь куда сохранять
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/data_report`. To experiment with that code, run `bin/console` for an interactive prompt.
 
